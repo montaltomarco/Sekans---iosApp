@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "daafa5ea-2338-40d9-85d3-ee5c5e2406a5++7508",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "daafa5ea-2338-40d9-85d3-ee5c5e2406a5++7508" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "daafa5ea-2338-40d9-85d3-ee5c5e2406a5++7508" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DB5C82A6-E4BE-4285-AB46-443E3EFA5372",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "daafa5ea-2338-40d9-85d3-ee5c5e2406a5++7508" : "mmontalt\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Sekans",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Sekans\/Sekans.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn.cs.kent.edu\/courses\/cs49995\/svn",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "daafa5ea-2338-40d9-85d3-ee5c5e2406a5++7508"
+    }
+  ]
+}
